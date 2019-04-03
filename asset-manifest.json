@@ -1,0 +1,13 @@
+{
+  "main.css": "/counting-challenge/static/css/main.c9b3122b.chunk.css",
+  "main.js": "/counting-challenge/static/js/main.c2972d14.chunk.js",
+  "main.js.map": "/counting-challenge/static/js/main.c2972d14.chunk.js.map",
+  "runtime~main.js": "/counting-challenge/static/js/runtime~main.d5e3ca39.js",
+  "runtime~main.js.map": "/counting-challenge/static/js/runtime~main.d5e3ca39.js.map",
+  "static/js/2.65aa1cca.chunk.js": "/counting-challenge/static/js/2.65aa1cca.chunk.js",
+  "static/js/2.65aa1cca.chunk.js.map": "/counting-challenge/static/js/2.65aa1cca.chunk.js.map",
+  "index.html": "/counting-challenge/index.html",
+  "precache-manifest.c07dddfaba42381f5f8579890fbdcf8d.js": "/counting-challenge/precache-manifest.c07dddfaba42381f5f8579890fbdcf8d.js",
+  "service-worker.js": "/counting-challenge/service-worker.js",
+  "static/css/main.c9b3122b.chunk.css.map": "/counting-challenge/static/css/main.c9b3122b.chunk.css.map"
+}
